@@ -4,7 +4,7 @@ This small JavaScript library extends JavaScript objetcs with the `prototype`.
 
 ## Prowdly baded on
 
-* [https://github.com/mishoo/UglifyJS](UglifyJS)
+* [UglifyJS](https://github.com/mishoo/UglifyJS)
 
 ## Minify
 
@@ -12,4 +12,4 @@ run ./minify
 
 ## Versioning
 
-We use Semantic [http://semver.org/](Versioning 2.0.0).
+We use Semantic [Versioning 2.0.0](http://semver.org/).
