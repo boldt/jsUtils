@@ -2,13 +2,13 @@
 
 This small JavaScript library extends JavaScript objetcs with the `prototype`.
 
-## Prowdly baded on
+## Prowdly based on
 
 * [UglifyJS](https://github.com/mishoo/UglifyJS)
 
 ## Minify
 
-run ./minify
+run `./minify`
 
 ## Versioning
 
