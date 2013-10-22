@@ -1,4 +1,4 @@
-# jsUtils -  Common Javascript Utilities 
+# jsUtils -  Common JavaScript Utilities 
 
 This small JavaScript library extends JavaScript objetcs with the `prototype`.
 
