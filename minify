@@ -1,0 +1,5 @@
+#!/bin/bash
+
+npm install uglify-js@1
+./node_modules/uglify-js/bin/uglifyjs jsUtils.js > jsUtils.min.js
+vi jsUtils.min.js
